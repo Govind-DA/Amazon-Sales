@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b683dfb4-7c62-4db6-bbb4-155c3e932049)🔢 **KPI Overview**
+🔢 **KPI Overview**
 **Total Sales:** $3.59 million
 
 **Total Profit:** $108.42K
